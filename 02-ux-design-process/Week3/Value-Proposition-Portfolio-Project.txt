@@ -1,0 +1,10 @@
+The project is about designing an e-commerce app for an animal shelter. This app will help potential adopters browse detailed information about pets and get matched to those that can fit their lifestyles. Below is a list of the app benefits with the needs of potential users as priority:
+- Easy-to-navigate and stunning design.
+- User sign up and survey form for personalized experience.
+- Suggesting potential matches in an approachable way.
+- Providing relevant pet details in a consumable manner.
+- Annotated live-streamed video to connect with pets virtually.
+- Assisting search through more tools on a bigger screen.
+- Easy conversation and interaction with the shelter through chat feature.
+- Providing tools to make satisfying decision.
+- Post adoption support through forum and chat features.
